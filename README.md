@@ -1,4 +1,4 @@
-# PCB for Kensington trackballs with RP2040
+# PCB for Kensington trackball with RP2040
 
 [Kensington Orbit Trackball with Scroll Ring](https://www.kensington.com/p/products/electronic-control-solutions/trackball-products/orbit-trackball-with-scroll-ring/)の基板を[PGA2040](https://shop.pimoroni.com/products/pga2040)を使っ基板に置き換えるためのKiCadプロジェクト
 
@@ -13,8 +13,8 @@
 |部品|入手先|備考|
 |-|-|-|
 |PGA2040|<https://akizukidenshi.com/catalog/g/gM-16762/>|Raspberry pi picoと同じCPU|
-|IR928-6C-F|<https://www.marutsu.co.jp/pc/i/12907560/>|ホイール用ロータリーエンコーダ用LED</br>見た目が同じなので選択|
-|PT5529B/L2/H3|<https://www.marutsu.co.jp/pc/i/13719542/>|ホイール用ロータリーエンコーダ用フォトトランジスタ</br>見た目が同じなので選択|
+|IR928-6C-F|<https://www.marutsu.co.jp/pc/i/12907560/>|ホイール用ロータリーエンコーダのLED</br>見た目が同じなので選択|
+|PT5529B/L2/H3|<https://www.marutsu.co.jp/pc/i/13719542/>|ホイール用ロータリーエンコーダのフォトトランジスタ</br>見た目が同じなので選択|
 |NJM4580|<https://akizukidenshi.com/catalog/g/gI-14003/>|手元にあったオペアンプ</br>本物は[LMV393](https://www.ti.com/product/ja-jp/LMV393)が使用されてます。|
 |B6B-PH-K-S|<https://www.marutsu.co.jp/pc/i/46628/>|ADNS-5050との接続用コネクタ|
 |S5B-PH-K-S|<https://www.marutsu.co.jp/pc/i/54957/>|USBケーブルとの接続用コネクタ|
