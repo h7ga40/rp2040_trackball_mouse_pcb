@@ -23,13 +23,7 @@
 
 ## ソフトウェア
 
-作成中で、まだ基板が正しいか確認できてません。（[GR-ROSE版](https://github.com/h7ga40/azure_iot_hub_rose/tree/main/app_iothub_client/tinyusb)ではある程度動いています。）
-
-下記のソフトを使用する予定。
-
-- [Raspberry Pi Pico SDK](https://github.com/raspberrypi/pico-sdk)
-- [TinyUSB](https://github.com/hathach/tinyusb)
-- [ADNS-5050](https://github.com/okhiroyuki/ADNS5050)
+[こちら](https://github.com/h7ga40/rp2040_trackball_mouse)にソフトウェアがあります。
 
 ## 部品実装
 
