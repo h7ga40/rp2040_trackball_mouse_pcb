@@ -2,8 +2,6 @@
 
 [Kensington Orbit Trackball with Scroll Ring](https://www.kensington.com/p/products/electronic-control-solutions/trackball-products/orbit-trackball-with-scroll-ring/)の基板を[PGA2040](https://shop.pimoroni.com/products/pga2040)を使っ基板に置き換えるためのKiCadプロジェクト
 
-**まだホイールがぎこちないです**。本物の回路の読み取ったコンパレータ回路が原因？
-
 ![Trackball](images/appearance.jpg)
 
 ## 基板発注時の注意
@@ -20,7 +18,7 @@
 |LMV393D|<https://www.marutsu.co.jp/pc/i/30637519/>|２相エンコーダ信号用のコンパレータ|
 |B6B-PH-K-S|<https://www.marutsu.co.jp/pc/i/46628/>|ADNS-5050との接続用コネクタ|
 |S5B-PH-K-S|<https://www.marutsu.co.jp/pc/i/54957/>|USBケーブルとの接続用コネクタ|
-|kailh mute switch|<https://www.amazon.co.jp/s?k=kailh+mute+switch>|マウスボタン</br>[秋月のタクトスイッチ](https://akizukidenshi.com/catalog/g/gP-14892/)で代用（底上げが必要）|
+|kailh mute switch|<https://www.amazon.co.jp/s?k=kailh+mute+switch>|マウスボタン</br>[秋月のタクトスイッチ](https://akizukidenshi.com/catalog/g/gP-14892/)で代用（1.6mm(7.3mm-5.7mm)の底上げが必要）|
 |タクトスイッチ|<https://akizukidenshi.com/catalog/g/gP-06184/>|RP2040のリセットとモード選択用|
 
 ## ソフトウェア
